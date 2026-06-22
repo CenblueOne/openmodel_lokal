@@ -64,10 +64,10 @@ Aplikasi chat berbasis Gradio yang memanfaatkan API OpenModel.ai untuk mengakses
 
 Jalankan script:
 ```bash
-python app.py
+python openmodel_lokal.py
 ```
 
-Aplikasi akan terbuka di browser secara otomatis pada `http://127.0.0.1:7861`.
+Aplikasi akan terbuka di browser secara otomatis pada `http://127.0.0.1:7860`.
 
 ### Cara menggunakan antarmuka:
 
